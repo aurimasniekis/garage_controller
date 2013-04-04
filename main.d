@@ -1,0 +1,35 @@
+main.o: main.cpp /usr/local/gcc_embedded/stellarisware/inc/LM4F120H5QR.h \
+ /usr/local/gcc_embedded/stellarisware/inc/hw_ints.h \
+ /usr/local/gcc_embedded/stellarisware/inc/hw_gpio.h \
+ /usr/local/gcc_embedded/stellarisware/inc/hw_memmap.h \
+ /usr/local/gcc_embedded/stellarisware/inc/hw_sysctl.h \
+ /usr/local/gcc_embedded/stellarisware/inc/hw_types.h \
+ /usr/local/gcc_embedded/stellarisware/driverlib/gpio.h \
+ /usr/local/gcc_embedded/stellarisware/driverlib/pin_map.h \
+ /usr/local/gcc_embedded/stellarisware/driverlib/sysctl.h \
+ /usr/local/gcc_embedded/stellarisware/driverlib/interrupt.h \
+ /usr/local/gcc_embedded/stellarisware/driverlib/timer.h \
+ /usr/local/gcc_embedded/stellarisware/driverlib/uart.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/stdio.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/_ansi.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/newlib.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/config.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/machine/ieeefp.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/features.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/include/stddef.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/include/stdarg.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/reent.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/_ansi.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/_types.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/machine/_types.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/machine/_default_types.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/lock.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/types.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/machine/types.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/stdio.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/stdlib.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/machine/stdlib.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/alloca.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/string.h \
+ /usr/local/gcc_embedded/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/include/sys/string.h \
+ hardware/gpio.h software/flourescent_lamp.h software/../hardware/gpio.h
